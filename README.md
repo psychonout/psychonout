@@ -6,6 +6,18 @@
 - 🌃 Late at night learning me some game development
 - 📫 Pick where to reach me via [linktree]
 
+## Tools I had a chance to work with
+
+[![Skills](https://skillicons.dev/icons?i=aws,astro,azure,docker,fastapi,git,grafana,linux,pug,py,tailwind,terraform)](https://skillicons.dev)
+
+## Familiar database flavors
+
+[![Databases](https://skillicons.dev/icons?i=elasticsearch,mysql,postgres,rabbitmq,redis,sqlite)](https://skillicons.dev)
+
+## Things I do in my free time
+
+[![Hobbies](https://skillicons.dev/icons?i=ableton,arduino,raspberrypi,unreal)](https://skillicons.dev)
+
 <!-- ![My Github Stats](https://github-readme-stats.vercel.app/api?username=psychonout) -->
 
 [Astro]: https://astro.js
