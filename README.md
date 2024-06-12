@@ -20,10 +20,13 @@
 
 ## Latest websites
 
-- [Dearhome]: https://dearhome.lt
-- [Martins Tenor]: https://martinstenor.com
+- [Dearhome]
+- [Martins Tenor]
 
 <!-- ![My Github Stats](https://github-readme-stats.vercel.app/api?username=psychonout) -->
 
 [Astro]: https://astro.js
 [linktree]: https://linktr.ee/psychonout
+
+[Martins Tenor]: https://martinstenor.com
+[Dearhome]: https://dearhome.lt
