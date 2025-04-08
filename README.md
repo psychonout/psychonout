@@ -1,7 +1,8 @@
 # Hi there 👋
 
 - 🔭 Currently working @ Gjensidige's AI&MLOps
-- 🌱 Mostly writing dbt & sql
+- 🌱 These days mostly writing dbt & sql & yaml
+- 🐍 However that gets tedious, thus constantly looking what to offload to some script or automation
 - 🛣️ Freelancing for Vilnius Municipality -> [IDVilnius]
 - 🦾 Side-hustling building [Astro] websites
 - 📫 Follow me on these platforms [linktree]
