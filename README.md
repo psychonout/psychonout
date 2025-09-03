@@ -1,20 +1,18 @@
 # Hi there 👋
 
-- 🔭 Currently working @ Gjensidige's AI&MLOps
-- 🌱 These days mostly writing dbt & sql & yaml
-- 🐍 However that gets tedious, thus constantly looking what to offload to some script or automation
+- 🔭 Currently doing AI solutions @ [Scandic Fusion]
+- 🐍 Constantly looking what to delegate to a script, an automation or a workflow
 - 🛣️ Freelancing for Vilnius Municipality -> [IDVilnius]
 - 🦾 Side-hustling building [Astro] websites
-- 📫 Follow me on these platforms [linktree]
 - 📧 Send me a note at [donatas@gostautas.com]
 
-## Tools I had a chance to work with
+## Tools to work with
 
-[![Skills](https://skillicons.dev/icons?i=aws,ansible,astro,azure,cloudflare,docker,fastapi,git,grafana,linux,pug,py,tailwind,terraform)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,ansible,astro,azure,cloudflare,docker,fastapi,git,grafana,linux,pug,py,tailwind,terraform,gcp,windows,vercel,ts,selenium,powershell,gulp)](https://skillicons.dev)
 
 ## Familiar database flavors
 
-[![Databases](https://skillicons.dev/icons?i=elasticsearch,mysql,postgres,rabbitmq,redis,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=elasticsearch,mysql,postgres,rabbitmq,redis,sqlite,mongodb)](https://skillicons.dev)
 
 ## Things I do in my free time
 
@@ -29,9 +27,9 @@
 <!-- ![My Github Stats](https://github-readme-stats.vercel.app/api?username=psychonout) -->
 
 [Astro]: https://astro.js
-[linktree]: https://linktr.ee/psychonout
+[Scandic Fusion]: https://scandicfusion.com
 [IDVilnius]: https://idvilnius.lt
-[donatas@gostautas.com] mailto:donatas@gostautas.com
+[donatas@gostautas.com]: mailto:donatas@gostautas.com
 
 [Martins Tenor]: https://martinstenor.com
 [Dearhome]: https://dearhome.lt
