@@ -1,7 +1,6 @@
 # Hi there 👋
 * 🔭 Currently doing AI solutions @ [Scandic Fusion]
 * 🐍 Constantly looking what to delegate to a script, an automation or a workflow
-* 🛣️ Freelancing for Vilnius Municipality -> [IDVilnius]
 * 🦾 Side-hustling building [Astro] websites
 * 📧 Send me a note at [donatas@gostautas.com]
 
