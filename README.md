@@ -4,6 +4,10 @@
 * 🦾 Side-hustling building [Astro] websites
 * 📧 Send me a note at [donatas@gostautas.com]
 
+## Mileage so far
+
+[![wakatime](https://wakatime.com/badge/user/67f57285-3c59-4acd-bdde-b4e5009459f4.svg)](https://wakatime.com/@67f57285-3c59-4acd-bdde-b4e5009459f4)
+
 ## Clouds I've been into
 
 ![Clouds](https://skillicons.dev/icons?i=aws,azure,gcp,vercel)
@@ -12,11 +16,11 @@
 
 ![Languages](https://skillicons.dev/icons?i=py,docker,terraform,astro,ts,powershell,pug,gulp,tailwind)
 
-## Top three operating systems I use
+## Top three operating systems I'd rather use
 
 ![OS](https://skillicons.dev/icons?i=apple,linux,windows)
 
-## Other tools I use
+## Other tools I'm a fan of
 
 ![Tools](https://skillicons.dev/icons?i=ansible,cloudflare,fastapi,grafana,selenium)
 
