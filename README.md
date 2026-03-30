@@ -1,5 +1,5 @@
 # Hi there 👋
-* 🔭 Currently doing AI solutions @ [Scandic Fusion]
+* 🔭 Currently doing AI solutions & Data migration @ [Scandic Fusion]
 * 🐍 Constantly looking what to delegate to a script, an automation or a workflow
 * 🦾 Side-hustling building [Astro] websites
 * 📧 Send me a note at [donatas@gostautas.com]
