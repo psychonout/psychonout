@@ -52,3 +52,5 @@
 [Martins Tenor]: https://martinstenor.com
 [Dearhome]: https://dearhome.lt
 [Visoriu Miško Rezidencijos]: https://visoriumiskorezidencijos.lt
+[Baltijos Čempionų Topas]: https://www.balticchampions.lt
+[mintys.dogo.works]: https://mintys.dogo.works
